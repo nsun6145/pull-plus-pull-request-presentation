@@ -9,3 +9,5 @@ Here is some new text.
 Here is some more new text
 
 Killroy was here
+
+This is more new text
